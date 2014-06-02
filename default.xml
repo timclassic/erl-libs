@@ -65,7 +65,7 @@
   <project path="eunit_formatters" name="seancribbs/eunit_formatters"
            groups="lib" revision="0c562929645c77b2616bfdb93b65fa5f16383df1" />
 
-  <project path="erldns" name="aetrion/erl-dns" groups="app"
-           revision="39ccd50973935d8fc56eb1b4321a0a29ab7a0ca0" />
+  <project path="erldns" name="timclassic/erl-dns" groups="app"
+           remote="github" />
 
 </manifest>
