@@ -20,8 +20,8 @@
            revision="refs/tags/0.8.2" />
   <project path="rebar_vsn_plugin" name="erlware/rebar_vsn_plugin" groups="dev"
            revision="refs/tags/v0.0.4" />
-  <project path="relx" name="erlware/relx" groups="dev"
-           revision="refs/tags/v1.0.2" />
+  <project path="relx" name="timclassic/relx" groups="dev"
+           remote="github" />
   <project path="sync" name="rustyio/sync" groups="dev"
            revision="5a0ffec529cb86aba69835b2825787ce04ad9f6a" />
 
