@@ -21,7 +21,7 @@
   <project path="rebar_vsn_plugin" name="erlware/rebar_vsn_plugin" groups="dev"
            revision="refs/tags/v0.0.4" />
   <project path="relx" name="timclassic/relx" groups="dev"
-           revision="move_system_apps" remote="github" />
+           remote="github" />
   <project path="sync" name="rustyio/sync" groups="dev"
            revision="5a0ffec529cb86aba69835b2825787ce04ad9f6a" />
 
