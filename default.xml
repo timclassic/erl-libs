@@ -64,6 +64,8 @@
            revision="0edc0530dfdcdcd5765a574235215826ed958957" />
   <project path="eunit_formatters" name="seancribbs/eunit_formatters"
            groups="lib" revision="0c562929645c77b2616bfdb93b65fa5f16383df1" />
+  <project path="erlexec" name="saleyn/erlexec" groups="lib"
+           revision="5923cfa1d5906121b35078ebb0dfec7b98efd5c9" />
 
   <project path="erldns" name="timclassic/erl-dns" groups="app"
            remote="github" />
