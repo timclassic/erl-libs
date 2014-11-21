@@ -24,6 +24,8 @@
            remote="github" />
   <project path="sync" name="rustyio/sync" groups="dev"
            revision="5a0ffec529cb86aba69835b2825787ce04ad9f6a" />
+  <project path="percept2" name="huiqing/percept2" groups="dev"
+           revision="07e2e4ae109b8ca29e32df134b59cb45926a5edd" />
 
   <project path="lager" name="basho/lager" groups="support"
            revision="refs/tags/2.0.3" />
