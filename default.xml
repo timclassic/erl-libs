@@ -70,8 +70,12 @@
            revision="1790d0729d20493b7c4e89a3f1b4e9e17d177820" />
   <project path="gproc" name="uwiger/gproc" groups="lib"
            revision="refs/tags/0.3.1" />
+  <project path="ibrowse" name="cmullaparthi/ibrowse" groups="lib"
+           revision="refs/tags/v4.1.1" />
 
   <project path="erldns" name="timclassic/erl-dns" groups="app"
            remote="github" />
+  <project path="yaws" name="klacke/yaws" groups="app"
+           revision="refs/tags/yaws-1.99" />
 
 </manifest>
