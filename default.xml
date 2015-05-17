@@ -72,6 +72,12 @@
            revision="refs/tags/0.3.1" />
   <project path="ibrowse" name="cmullaparthi/ibrowse" groups="lib"
            revision="refs/tags/v4.1.1" />
+  <project path="riakc" name="basho/riak-erlang-client" groups="lib"
+           revision="refs/tags/2.1.1" />
+  <project path="riak_pb" name="basho/riak_pb" groups="lib"
+           revision="refs/tags/2.1.0.2" />
+  <project path="protobuffs" name="basho/erlang_protobuffs" groups="lib"
+           revision="refs/tags/0.8.1p5" />
 
   <project path="erldns" name="timclassic/erl-dns" groups="app"
            remote="github" />
