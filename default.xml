@@ -78,6 +78,8 @@
            revision="refs/tags/2.1.0.2" />
   <project path="protobuffs" name="basho/erlang_protobuffs" groups="lib"
            revision="refs/tags/0.8.1p5" />
+  <project path="mimeparse" name="jcgregorio/mimeparse" groups="lib"
+           revision="99e831ca51e55f1f61f0f383d7c79d6526865878" />
 
   <project path="erldns" name="timclassic/erl-dns" groups="app"
            remote="github" />
