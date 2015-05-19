@@ -45,7 +45,7 @@
   <project path="hottub" name="bfrog/hottub" groups="lib"
            revision="refs/tags/1.3.0" />
   <project path="jsx" name="talentdeficit/jsx" groups="lib"
-           revision="refs/tags/v2.0.2" />
+           revision="refs/tags/v2.6.1" />
   <project path="dns" name="aetrion/dns_erlang" groups="lib"
            revision="d92491ed58e42a5de326c1b13bde0c4543963fd4" />
   <project path="goldrush" name="DeadZen/goldrush" groups="lib"
@@ -80,6 +80,8 @@
            revision="refs/tags/0.8.1p5" />
   <project path="mimeparse" name="jcgregorio/mimeparse" groups="lib"
            revision="99e831ca51e55f1f61f0f383d7c79d6526865878" />
+  <project path="jiffy" name="davisp/jiffy" groups="lib"
+           revision="refs/tags/0.13.3" />
 
   <project path="erldns" name="timclassic/erl-dns" groups="app"
            remote="github" />
