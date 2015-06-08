@@ -82,6 +82,8 @@
            revision="99e831ca51e55f1f61f0f383d7c79d6526865878" />
   <project path="jiffy" name="davisp/jiffy" groups="lib"
            revision="refs/tags/0.13.3" />
+  <project path="uuid" name="avtobiff/erlang-uuid" groups="lib"
+           revision="refs/tags/v0.4.7" />
 
   <project path="erldns" name="timclassic/erl-dns" groups="app"
            remote="github" />
