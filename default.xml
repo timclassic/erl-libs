@@ -84,6 +84,8 @@
            revision="refs/tags/0.13.3" />
   <project path="uuid" name="avtobiff/erlang-uuid" groups="lib"
            revision="refs/tags/v0.4.7" />
+  <project path="epistula" name="timclassic/epistula" groups="lib"
+           remote="github" />
 
   <project path="erldns" name="timclassic/erl-dns" groups="app"
            remote="github" />
