@@ -67,7 +67,7 @@
   <project path="eunit_formatters" name="seancribbs/eunit_formatters"
            groups="lib" revision="0c562929645c77b2616bfdb93b65fa5f16383df1" />
   <project path="exec" name="saleyn/erlexec" groups="lib"
-           revision="6c311527bdafc87f3491e4e60b29e7a1b0f33c6e" />
+           revision="b3548d6973a1529bfada3cab9bbf602d43fb5e46" />
   <project path="gproc" name="uwiger/gproc" groups="lib"
            revision="refs/tags/0.3.1" />
   <project path="ibrowse" name="cmullaparthi/ibrowse" groups="lib"
