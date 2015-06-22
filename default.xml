@@ -57,13 +57,9 @@
   <project path="neotoma" name="seancribbs/neotoma" groups="lib"
            revision="refs/tags/1.7.2" />
   <project path="erlware_commons" name="erlware/erlware_commons" groups="lib"
-           revision="c2d67e6f76c1ee0802cd2c2bdae3fbb7a18d698d" />
-  <project path="erlydtl" name="erlydtl/erlydtl" groups="lib"
-           revision="refs/tags/0.9.4" />
+           revision="refs/tags/v0.12.0" />
   <project path="getopt" name="jcomellas/getopt" groups="lib"
            revision="refs/tags/v0.8.2" />
-  <project path="merl" name="erlydtl/merl" groups="lib"
-           revision="0edc0530dfdcdcd5765a574235215826ed958957" />
   <project path="eunit_formatters" name="seancribbs/eunit_formatters"
            groups="lib" revision="0c562929645c77b2616bfdb93b65fa5f16383df1" />
   <project path="exec" name="saleyn/erlexec" groups="lib"
@@ -86,6 +82,10 @@
            revision="refs/tags/v0.4.7" />
   <project path="epistula" name="timclassic/epistula" groups="lib"
            remote="github" />
+  <project path="providers" name="tsloughter/providers" groups="lib"
+           revision="refs/tags/1.4.1" />
+  <project path="bbmustache" name="soranoba/bbmustache" groups="lib"
+           revision="refs/tags/v1.0.1" />
 
   <project path="erldns" name="timclassic/erl-dns" groups="app"
            remote="github" />
